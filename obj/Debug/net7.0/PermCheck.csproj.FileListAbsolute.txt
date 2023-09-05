@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\bin\Debug\net7.0\PermCheck.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\bin\Debug\net7.0\PermCheck.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\bin\Debug\net7.0\PermCheck.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\bin\Debug\net7.0\PermCheck.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\bin\Debug\net7.0\PermCheck.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\refint\PermCheck.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\PermCheck.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\PermCheck\obj\Debug\net7.0\ref\PermCheck.dll
